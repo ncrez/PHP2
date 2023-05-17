@@ -1,9 +1,9 @@
 <?php
 
-include './inc/db.php';
+include './inc/DB.php';
 include './inc/form.php';
-include './inc/select.php';
-include './inc/db_close.php';
+include './inc/slect.php';
+include './inc/DB_C.php';
 
 
 ?>

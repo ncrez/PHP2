@@ -1,6 +1,6 @@
 <script src="./js/bootstrap.bundle.min.js"></script>
-<script src="./js/script.js"></script>
-<script src="./js/load.js"></script>
+<script src="./js/S.JS"></script>
+<script src="./js/L.JS"></script>
 
 </body>
 
