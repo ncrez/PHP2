@@ -2,7 +2,7 @@
 
 include './inc/DB.php';
 include './inc/form.php';
-include './inc/slect.php';
+include './inc/slecet.php';
 include './inc/DB_C.php';
 
 
