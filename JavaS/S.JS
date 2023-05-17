@@ -16,4 +16,5 @@ var x = setInterval(function () {
         clearInterval(x);
         counter.innerHTML = "EXPIRED";
     }
-}, 1000);
+},
+ 1000);

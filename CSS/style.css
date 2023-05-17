@@ -1,0 +1,35 @@
+#countdown {
+    color: #3653c9;
+    animation: countdown 5s linear infinite;
+  }
+  
+  @keyframes countdown {
+    0% {   color: rgb(5, 227, 234);
+    }
+    100% {  color: rgb(11, 169, 11);
+    }
+  }
+  #cards {
+    display: none;
+  }
+  #loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .loader-con{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1e1d1df2;
+  }
+  .list-group-item{
+    background-color: transparent;
+  }
+  img{
+    max-width: 100%;
+  }
